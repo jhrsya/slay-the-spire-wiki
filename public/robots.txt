@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jhrsya.github.io/slay-the-spire-wiki/sitemap.xml
